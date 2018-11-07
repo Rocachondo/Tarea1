@@ -19,9 +19,9 @@ Dado que trabajo y tengo que atender diferentes labores, no tengo el tiempo que 
 
 1. **PARTE A** Comencé creando los documentos RTF, XML y HTML (el año pasado sólo hice bien el RTF... este me ha dado algunos problemas el XML, espero que esté bien).
 2. **PARTE B** Dado que ya tenía creada la cuenta de GitHub la seguiré usando:
->> _Mencionaré las tareas de este años con **TareaN LMSGI 2018/2019**_
->
->> _Mantendré las tareas del año pasado en lugar de borrarlas para poder comprobar mis avances cualitativos en éstas_
+   > _Mencionaré las tareas de este años con **TareaN LMSGI 2018/2019**_
+   >
+   > _Mantendré las tareas del año pasado en lugar de borrarlas para poder comprobar mis avances cualitativos en éstas_
 3. **PARTE C** Subí los documentos y empleé el HTML para realizar las pruebas pertinentes. Aquí está el enlace a su [ruta relativa](/HTML.html/), la [absoluta](https://github.com/Rocachondo/Tarea1/blob/master/HTML.html) y la [comprobación que funciona correctamente](https://raw.githack.com/Rocachondo/Tarea1/master/HTML.html) haciendo uso de Githack.
 4. **PARTE D** Edición del README.md usando Markdown, espero que haya quedado lo suficientemente ordenado y bonito.
 
