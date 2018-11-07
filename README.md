@@ -5,3 +5,4 @@ Empecemos este curso con buen pie, el año pasado cometí varios errores desde e
 Preparando el Readme.md para su edición final.
 
 Probando [un ejemplo](https://github.com/Rocachondo/Tarea1/blob/master/HTML.html "De prueba") de link inline, a ver si redirije correctamente.
+Ahora con su ruta relativa [About](/HTML.html/)
